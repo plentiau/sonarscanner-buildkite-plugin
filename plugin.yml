@@ -25,6 +25,8 @@ configuration:
       type: boolean
     is_dotnet:
       type: boolean
+    mount_dir:
+      type: boolean
     scan_only_if_sources_changed:
       type: boolean
     sources:
